@@ -40,18 +40,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousefkandel&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefkandel&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/yousefkandel
+<p>
+
+<a href="https://www.linkedin.com/in/yousef-kandiel">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="https://wa.me/201029497573">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" width="40"/>
+</a>
+
+</p>
